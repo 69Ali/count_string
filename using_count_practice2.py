@@ -1,0 +1,5 @@
+str_x=("Ali is a good developer.Ali is a writer")
+count=str_x.count("Ali")
+print(f"your name is appeared {count} times in the above line")
+length=len("Ali")
+print(f"Length of your name is {length} ")
